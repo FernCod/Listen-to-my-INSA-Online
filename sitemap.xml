@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://listentomyinsa.com/index.html</loc>
-    <lastmod>2019-06-19</lastmod>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,37 +15,70 @@
       <image:loc>http://listentomyinsa.com/images/banner%202-crop-u969.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://listentomyinsa.com/images/facebook.png</image:loc>
+      <image:loc>http://listentomyinsa.com/images/banner3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://listentomyinsa.com/images/instagram.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/banner%201-crop-u8682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/banner%202-crop-u9692.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://listentomyinsa.com/programaci%C3%B3n.html</loc>
-    <lastmod>2019-06-19</lastmod>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://listentomyinsa.com/images/radio%20insa-crop-u198.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://listentomyinsa.com/images/rock.jpg</image:loc>
+      <image:loc>http://listentomyinsa.com/images/yesteryear.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://listentomyinsa.com/images/pop.jpg</image:loc>
+      <image:loc>http://listentomyinsa.com/images/a%C3%B1os2000.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://listentomyinsa.com/images/electronica.png</image:loc>
+      <image:loc>http://listentomyinsa.com/images/tropical%20stage.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/alternative%20zone.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/latin%20mode.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/yesteryear300x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/a%C3%B1os2000300x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/tropical%20stage300x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/alternative%20zone300x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/latin%20mode300x300.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://listentomyinsa.com/cont%C3%A1ctanos.html</loc>
-    <lastmod>2019-06-19</lastmod>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://listentomyinsa.com/images/radio%20insa-crop-u198.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://listentomyinsa.com/images/facebook.png</image:loc>
     </image:image>
   </url>
 </urlset>

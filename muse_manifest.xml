@@ -1,10 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="listentomyinsa.com" resolutions="1x" timestamp="1562270394353">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="listentomyinsa.com" resolutions="1x" timestamp="1562466453365">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="3896425680" ref="contáctanos:programación:index"/>
-    <file name="cont_ctanos.css" crc="340659475" ref="contáctanos"/>
-    <file name="programaci_n.css" crc="4111140422" ref="programación"/>
-    <file name="index.css" crc="4222173163" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="427172574" ref="contáctanos:index:programación"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="106313178" ref="contáctanos:index:programación"/>
+    <file name="cont_ctanos.css" crc="427436281" ref="contáctanos"/>
+    <file name="nomq_cont_ctanos.css" crc="4185873626" ref="contáctanos"/>
+    <file name="index.css" crc="3993643685" ref="index"/>
+    <file name="nomq_index.css" crc="357179478" ref="index"/>
+    <file name="programaci_n.css" crc="142939130" ref="programación"/>
+    <file name="nomq_programaci_n.css" crc="505742495" ref="programación"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:programación:contáctanos"/>
@@ -13,49 +17,85 @@
     <file name="museconfig.js" crc="380897831" ref="index:programación:contáctanos"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:programación:contáctanos"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:programación:contáctanos"/>
-    <file name="webpro.js" crc="242022427" ref="index:contáctanos"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:programación:contáctanos"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:programación:contáctanos"/>
     <file name="require.js" crc="4157109226" ref="index:programación:contáctanos"/>
-    <file name="form_check.php" crc="147359589" ref="contáctanos"/>
-    <file name="form_throttle.php" crc="93986428" ref="contáctanos"/>
-    <file name="form_process.php" crc="3851993751" ref="contáctanos"/>
-    <file name="form-u1036.php" crc="3786873627" ref="contáctanos"/>
   </folder>
   <folder name="images">
-    <file name="u211-7.png" crc="144149761" ref="index:programación:contáctanos"/>
+    <file name="u211-7.png" crc="4254688221" ref="index:programación:contáctanos"/>
     <file name="radio insa-crop-u198.png" crc="85278364" seo="true" ref="index:programación:contáctanos">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="programación" alt=""/>
       <caption webpage="programación" alt=""/>
       <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
     </file>
-    <file name="banner 1-crop-u868.jpg" crc="4115892628" seo="true" ref="index">
+    <file name="banner 1-crop-u868.jpg" crc="4246535181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="banner 2-crop-u969.jpg" crc="4096709295" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:programación:contáctanos"/>
+    <file name="banner 2-crop-u969.jpg" crc="408572701" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="facebook.png" crc="25711953" seo="true" ref="index">
+    <file name="banner3.jpg" crc="4198065942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram.png" crc="4228135638" seo="true" ref="index">
+    <file name="instagram.png" crc="4228135638" seo="true" ref="index:contáctanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
+    </file>
+    <file name="u1768-6.png" crc="3778073263" ref="index:programación:contáctanos"/>
+    <file name="banner 1-crop-u8682.jpg" crc="467129729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rock.jpg" crc="304966988" seo="true" ref="programación">
+    <file name="banner 2-crop-u9692.jpg" crc="509500739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yesteryear.jpg" crc="4125260291" seo="true" ref="programación">
       <caption webpage="programación" alt=""/>
     </file>
-    <file name="pop.jpg" crc="4161746865" seo="true" ref="programación">
+    <file name="años2000.jpg" crc="311875140" seo="true" ref="programación">
       <caption webpage="programación" alt=""/>
     </file>
-    <file name="electronica.png" crc="208227734" seo="true" ref="programación">
+    <file name="tropical stage.jpg" crc="412058524" seo="true" ref="programación">
       <caption webpage="programación" alt=""/>
+    </file>
+    <file name="alternative zone.jpg" crc="3856583223" seo="true" ref="programación">
+      <caption webpage="programación" alt=""/>
+    </file>
+    <file name="latin mode.jpg" crc="4184983662" seo="true" ref="programación">
+      <caption webpage="programación" alt=""/>
+    </file>
+    <file name="yesteryear300x300.jpg" crc="3867996567" seo="true" ref="programación">
+      <caption webpage="programación" alt=""/>
+    </file>
+    <file name="años2000300x300.jpg" crc="3831555236" seo="true" ref="programación">
+      <caption webpage="programación" alt=""/>
+    </file>
+    <file name="tropical stage300x300.jpg" crc="299871394" seo="true" ref="programación">
+      <caption webpage="programación" alt=""/>
+    </file>
+    <file name="alternative zone300x300.jpg" crc="4274149460" seo="true" ref="programación">
+      <caption webpage="programación" alt=""/>
+    </file>
+    <file name="latin mode300x300.jpg" crc="52059223" seo="true" ref="programación">
+      <caption webpage="programación" alt=""/>
+    </file>
+    <file name="facebook.png" crc="25711953" seo="true" ref="contáctanos">
+      <caption webpage="contáctanos" alt=""/>
+      <caption webpage="contáctanos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="105953170" seo="true" mt="1561000034857" redirect="true"/>
-  <file name="programación.html" crc="3938737385" seo="true" mt="1560998510679" redirect="true"/>
-  <file name="contáctanos.html" crc="3964700342" seo="true" mt="1560999546724" redirect="true"/>
+  <file name="index.html" crc="341407483" seo="true" mt="1562461817122" redirect="true"/>
+  <file name="programación.html" crc="409317855" seo="true" mt="1562461626050" redirect="true"/>
+  <file name="contáctanos.html" crc="4134160224" seo="true" mt="1562461833733" redirect="true"/>
 </manifest>
